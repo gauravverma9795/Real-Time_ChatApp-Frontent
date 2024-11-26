@@ -43,19 +43,7 @@
 
 ![Screenshot 2024-08-07 130827](https://github.com/user-attachments/assets/149e182d-918d-4ee5-ba45-678b8b7a9b3f)
 
-## Online Status 
 
-![Screenshot 2024-08-07 171648](https://github.com/user-attachments/assets/8474a61f-aa08-404e-b31c-770d4ef29078)
-
-## Search Contacts
-
-![Screenshot 2024-08-07 131120](https://github.com/user-attachments/assets/31e7533b-b9c3-428f-8afa-214114c89b64)
-
-## Mobile View
-
-![Screenshot 2024-08-07 171836](https://github.com/user-attachments/assets/3af011cd-2a58-4317-b7e7-185c3f5da62e)
-
-![Screenshot 2024-08-07 170410](https://github.com/user-attachments/assets/5781e3ab-f8ac-42c6-9094-cbe2dbcc28b1)
 
 
 ## Installation
